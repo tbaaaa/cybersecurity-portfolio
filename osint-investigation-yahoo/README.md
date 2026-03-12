@@ -27,7 +27,7 @@ This project presents an OSINT investigation based on the Yahoo breach. It exami
 - Phishing exercise analysis
 
 ## Files
-- `yahoo-osint-investigation-and-phishing-risk-analysis.pdf` – Full project report
+- `osint-investigation-yahoo.pdf` – Full project report
 
 ## Notes
 This project highlights how publicly available information can increase organizational attack surface and support social engineering operations.
