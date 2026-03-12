@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio – Ayden Romulus
+# Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio. This repository showcases security-focused projects that demonstrate my work:
 
