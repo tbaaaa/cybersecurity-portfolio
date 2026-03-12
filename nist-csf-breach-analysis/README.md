@@ -23,7 +23,6 @@ This project analyzes the Yahoo data breach through the lens of the NIST Cyberse
 
 ## Deliverables
 - NIST CSF 2.0 breach analysis report
-- Control and policy checklist
 
 ## Files
 - `yahoo-breach-nist-csf-2.0-analysis.pdf` – Full project report
